@@ -1,0 +1,23 @@
+.chart-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+
+.income-chart-container {
+  display: flex;
+  justify-content: center;
+  padding: 0px 0px 32px 0px;
+}
+
+.expense-chart-container {
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+}
+
+.category-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px;
+}
